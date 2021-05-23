@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ChangeMaker()
+comment0.text=\n\ Constructs\ ChangeMaker\ object.\n\ \n\ @return\n
+comment1.params=
+comment1.target=void\ getPurchasePrice()
+comment1.text=\n\ Prompts\ the\ customer\ for\ the\ purchase\ price\ and\ returns\ it\ in\ cents.\n\ \n\ @return\ \ \ amount\ of\ the\ purchase\ in\ cents\ (as\ an\ integer)\n
+comment2.params=
+comment2.target=void\ getCashTendered()
+comment2.text=\n\ Prompts\ the\ customer\ for\ the\ amount\ of\ cash\ tendered.\n\ \n\ If\ the\ customer\ does\ not\ give\ enough\ cash\ to\ cover\ the\ expenses,\ give\ the\ customer\n\ two\ options\:\ the\ customer\ can\ add\ for\ more\ money\ until\ there\ is\ enough\ or\ the\n\ customer\ may\ terminate\ the\ program.\n\n\ @param\ \ \ \ \ purchasePrice\n\ @return\ \ \ \ the\ amount\ of\ cash\ in\ cents\n
+comment3.params=
+comment3.target=void\ calculateChange()
+comment3.text=\n\ Calculates\ and\ prints\ out\ change\ \n\ (the\ number\ of\ dollars,\ quarters,\ dimes,\ nickels,\ and\ pennies)\ \n\ the\ customer\ is\ due\ in\ the\ standard\ $00.00\ format.\n\ \n\ @param\ \ \ \ \ \ \ purchasePrice\ and\ tenderedPrice\n
+comment4.params=
+comment4.target=void\ handleTransaction()
+comment4.text=\n\ Handles\ one\ customer\u2019s\ transaction.\n
+comment5.params=
+comment5.target=void\ overseeTransaction()
+comment5.text=\n\ Oversees\ the\ transactions\ of\ all\ customers.\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\ \n\ Simulates\ a\ transaction.\n\ \n\ @param\ \ \ args\ \ information\ from\ the\ command\ line\n
+numComments=7
